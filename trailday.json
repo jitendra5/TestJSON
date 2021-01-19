@@ -1,0 +1,116 @@
+{
+    "trialdaytemplates": [
+        {
+            "id_site": "BER",
+            "study_no": 34802,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-07T18:58:30Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34787,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-06T15:01:18Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34743,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-12T18:58:18Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 5,
+            "name": "SCR 2",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-16T18:24:32Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34777,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-27T13:02:41Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34787,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-06T15:01:18Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34802,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-07T18:58:30Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-16T18:24:32Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 4,
+            "name": "SCR 1",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-16T18:24:32Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 5,
+            "name": "SCR 2",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-16T18:24:32Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34743,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-12T18:58:18Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-16T18:24:32Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34777,
+            "trialday_temp_no": 1,
+            "name": "Screening",
+            "schedul_id": "INF",
+            "modified_on": "2019-08-27T13:02:41Z"
+        },
+        {
+            "id_site": "BER",
+            "study_no": 34818,
+            "trialday_temp_no": 4,
+            "name": "SCR 1",
+            "schedul_id": "STD",
+            "modified_on": "2019-08-16T18:24:32Z"
+        }
+    ]
+}
