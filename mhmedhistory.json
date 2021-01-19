@@ -1,0 +1,11 @@
+{
+    "medicalhistory": [
+        {
+            "id_site": "BER",
+            "id_mhs": 218320,
+            "id_subject": 51635,
+            "remark_general": "Primilary 3C - Data",
+            "modified_on": "2019-08-02T16:15:27Z"
+        }
+    ]
+}
