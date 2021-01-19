@@ -1,0 +1,256 @@
+{
+    "limitations": [
+        {
+            "id_site": "BER",
+            "id_subject": 37137,
+            "limitation_name": "Venous conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-06T18:45:25Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 105228,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Low Hb.",
+            "modified_on": "2019-08-07T20:36:31Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 64203,
+            "limitation_name": "Blood pressure",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": null,
+            "modified_on": "2019-08-02T11:54:56Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 126886,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-30T13:50:27Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 95117,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "HB decreased",
+            "modified_on": "2019-08-01T19:58:51Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 116855,
+            "limitation_name": "Social behaviour",
+            "limitation_state_name": "difficult",
+            "limitation_state_num": 1,
+            "remark": "242043 auffällig verwirrt siehe emails",
+            "modified_on": "2019-08-01T13:20:28Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 130661,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "HBsAg positive",
+            "modified_on": "2019-08-28T17:49:25Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 134416,
+            "limitation_name": "EEG Condition",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 1,
+            "remark": "This is a remark.",
+            "modified_on": "2021-01-13T15:56:34Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 129514,
+            "limitation_name": "ECG conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 1,
+            "remark": null,
+            "modified_on": "2019-08-02T12:01:58Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 133549,
+            "limitation_name": "Remark",
+            "limitation_state_name": "appl.?",
+            "limitation_state_num": 1,
+            "remark": "Schlechte Deutschkenntnisse",
+            "modified_on": "2019-08-19T16:35:34Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 134410,
+            "limitation_name": "Hygiene",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2020-12-24T20:21:25Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 108062,
+            "limitation_name": "Clinical conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-23T17:38:46Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 134409,
+            "limitation_name": "Venous conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2020-12-24T16:16:56Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 133814,
+            "limitation_name": "ECG conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 1,
+            "remark": null,
+            "modified_on": "2019-08-26T16:27:13Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 113755,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "quantiferon pos 240648",
+            "modified_on": "2019-08-19T23:23:56Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 90586,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-15T16:24:35Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 130841,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Bilirubin increased",
+            "modified_on": "2019-08-07T15:03:30Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 128311,
+            "limitation_name": "Clinical conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-02T11:35:14Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 66603,
+            "limitation_name": "Clinical conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 1,
+            "remark": null,
+            "modified_on": "2019-08-16T13:55:51Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 63636,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-06T18:28:22Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 63636,
+            "limitation_name": "Cooperation",
+            "limitation_state_name": "unreliable",
+            "limitation_state_num": 0,
+            "remark": null,
+            "modified_on": "2019-08-06T18:28:23Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 101507,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Low Hb",
+            "modified_on": "2019-08-01T18:02:13Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 128909,
+            "limitation_name": "Clinical conditions",
+            "limitation_state_name": "poor",
+            "limitation_state_num": 1,
+            "remark": null,
+            "modified_on": "2019-08-15T13:55:15Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 11728,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "seit 2017 immer wieder Kreatinin erhöht",
+            "modified_on": "2019-08-12T11:51:25Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 129745,
+            "limitation_name": "Psychometric complications",
+            "limitation_state_name": "insufficient",
+            "limitation_state_num": 1,
+            "remark": "THC",
+            "modified_on": "2019-08-22T14:23:32Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 130262,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Elevated creatinine",
+            "modified_on": "2019-08-05T17:47:39Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 76738,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Low Hb",
+            "modified_on": "2019-08-05T18:38:25Z"
+        },
+        {
+            "id_site": "BER",
+            "id_subject": 103331,
+            "limitation_name": "Laboratory results",
+            "limitation_state_name": "instable",
+            "limitation_state_num": 1,
+            "remark": "Elevated gammaGT",
+            "modified_on": "2019-08-05T19:42:12Z"
+        }
+    ]
+}
