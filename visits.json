@@ -1,0 +1,191 @@
+{
+  "appointments": [
+    {
+      "id_site": "BER",
+      "id_appointment": 296961,
+      "id_subject": 104408,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-03T04:00:00Z",
+      "appoint_time": "14:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T11:58:31Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297151,
+      "id_subject": 134065,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-04T04:00:00Z",
+      "appoint_time": "15:30",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:55:10Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297150,
+      "id_subject": 15985,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-04T04:00:00Z",
+      "appoint_time": "15:30",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:51:53Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297147,
+      "id_subject": 114626,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-11T04:00:00Z",
+      "appoint_time": "14:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:29:10Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297149,
+      "id_subject": 114626,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-12T04:00:00Z",
+      "appoint_time": "08:30",
+      "schedul_id": "STD",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:32:03Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297145,
+      "id_subject": 133856,
+      "study_no": 30909,
+      "appoint_dt": "2019-08-30T04:00:00Z",
+      "appoint_time": "10:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:27:18Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297138,
+      "id_subject": 133513,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-03T04:00:00Z",
+      "appoint_time": "14:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T11:30:39Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297139,
+      "id_subject": 133513,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-04T04:00:00Z",
+      "appoint_time": "08:00",
+      "schedul_id": "STD",
+      "archived": "F",
+      "modified_on": "2019-08-30T11:30:45Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297140,
+      "id_subject": 133993,
+      "study_no": 30909,
+      "appoint_dt": "2019-08-30T04:00:00Z",
+      "appoint_time": "10:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T12:28:39Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297141,
+      "id_subject": 133993,
+      "study_no": 30909,
+      "appoint_dt": "2019-08-30T04:00:00Z",
+      "appoint_time": "10:00",
+      "schedul_id": "STD",
+      "archived": "F",
+      "modified_on": "2019-08-30T12:28:48Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297154,
+      "id_subject": 134396,
+      "study_no": 30909,
+      "appoint_dt": "2019-09-05T04:00:00Z",
+      "appoint_time": "09:30",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T16:18:55Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297142,
+      "id_subject": 134199,
+      "study_no": 34729,
+      "appoint_dt": "2019-10-29T04:00:00Z",
+      "appoint_time": "14:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T12:29:41Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297148,
+      "id_subject": 126316,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-04T04:00:00Z",
+      "appoint_time": "15:30",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:30:44Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297152,
+      "id_subject": 83547,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-04T04:00:00Z",
+      "appoint_time": "15:30",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T15:08:43Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297153,
+      "id_subject": 83547,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-05T04:00:00Z",
+      "appoint_time": "09:00",
+      "schedul_id": "STD",
+      "archived": "F",
+      "modified_on": "2019-08-30T15:09:01Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297155,
+      "id_subject": 129239,
+      "study_no": 34733,
+      "appoint_dt": "2019-09-02T04:00:00Z",
+      "appoint_time": "08:30",
+      "schedul_id": "STD",
+      "archived": "F",
+      "modified_on": "2019-08-30T18:00:09Z"
+    },
+    {
+      "id_site": "BER",
+      "id_appointment": 297146,
+      "id_subject": 134390,
+      "study_no": 34729,
+      "appoint_dt": "2019-09-03T04:00:00Z",
+      "appoint_time": "14:00",
+      "schedul_id": "INF",
+      "archived": "F",
+      "modified_on": "2019-08-30T14:27:29Z"
+    }
+  ]
+}
